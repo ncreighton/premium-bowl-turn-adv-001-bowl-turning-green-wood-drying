@@ -1,0 +1,2 @@
+# premium-bowl-turn-adv-001-bowl-turning-green-wood-drying
+Stop guessing when your green wood bowls are dry enough to turn — and start preventing cracks with a systematic drying cycle tracker that logs every critical variable.  This Notion template transforms chaotic bowl drying into a repeatable, data-driven process. By tracking weight, moisture, and environmental conditions in one place, you eliminate th
